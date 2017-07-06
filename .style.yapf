@@ -38,13 +38,13 @@ I18N_COMMENT=''
 # Def: ''
 I18N_FUNCTION_CALL=''
 
-# Def: False XXXXXXXX
+# Def: False CHANGED
 INDENT_DICTIONARY_VALUE=True
 
 # Def: 4
 INDENT_WIDTH=4
 
-# Def: True XXXXXXXX
+# Def: True CHANGED
 JOIN_MULTIPLE_LINES=False
 
 # Def: True
